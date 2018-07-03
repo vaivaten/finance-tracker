@@ -16,6 +16,7 @@ gem 'devise'
 gem "twitter-bootstrap-rails"
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-sass'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
